@@ -1,0 +1,31 @@
+_repo: Educacion-comun-en-el-Estado-de-Buenos-Aires_61917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sarmiento, Domingo Faustino
+    aliases:
+    - Sarmiento, Domingo F. (Domingo Faustino)
+    - Sarmiento, D. F. (Domingo Faustino)
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '36297'
+    url: http://www.gutenberg.org/2009/agents/36297
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+    - https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+description: ''
+gutenberg_issued: '2020-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61917'
+  lccn: '12011497'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agricultural education -- Argentina'
+- !lcc 'S'
+- GITenberg
+title: Educación común en el Estado de Buenos-Aires
+url: http://www.gutenberg.org/ebooks/61917
